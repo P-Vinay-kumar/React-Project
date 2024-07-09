@@ -2,7 +2,7 @@
 
 This project is a pixel-perfect replica of the Telegram messaging application, built using ReactJS, TanStack Query. It replicates both desktop and mobile views of the Telegram UI/UX.
 
-## Live Demo: https://telegram-react-project.netlify.app/chat/3888
+## Live Demo: https://telegram-react-project.netlify.app/
 
 ## Features
 
